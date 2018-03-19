@@ -1,4 +1,4 @@
-## Web-WP
+## Web-WP-Project
 Pagina realizada con Laravel 5.4, Infyom para la generación del crud basico
 
 Tener instalado php y composer en tu ordenador, para evitar tiempo de configuración del php puedes descargarte el xampp

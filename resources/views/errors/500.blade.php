@@ -36,7 +36,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12" style="padding-top: 5em;">
-            <img class="img-responsive center-block" src="{{asset('img/wired-black.png')}}" style="max-height: 200px;">
+            <img class="img-responsive center-block" src="http://via.placeholder.com/235x228" style="max-height: 200px;">
         </div>
         <div class="col-md-12">
             <div class="jumbotron" style="margin-top: 5em;">

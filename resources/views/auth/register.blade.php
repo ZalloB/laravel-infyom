@@ -37,7 +37,7 @@
 <body class="hold-transition register-page" style="background-image: url({{asset('img/bg-login.png')}}); background-size: cover; background-repeat: no-repeat; background-color: #36373d;">
 <div class="register-box">
     <div class="register-logo">
-        <img src="{{asset('img/wired-white-only-logo.png')}}" class="img-responsive center-block">
+        <img src="http://via.placeholder.com/235x228" class="img-responsive center-block">
         <a href="{{ url('/home') }}" style="color: #ffffff;"><b>Wired </b>Players</a>
     </div>
 
