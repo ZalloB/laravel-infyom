@@ -9,7 +9,7 @@ Para el composer depende del php [Composer](https://getcomposer.org/)
 IDE recomendado: **PHPStorm**
 
 ### Installation
-* git clone https://github.com/xabier1989/Web-WP.git
+* git clone https://github.com/ZalloB/laravel-infyom.git
 * `cd web-wp`
 * `composer install` - para descargar las dependencias // composer update 
 * `php artisan serve` - para iniciarlo en local
